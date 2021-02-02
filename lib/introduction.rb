@@ -1,4 +1,6 @@
-def introduction(name)
+def introduction (Barak)
+  puts "Hi, my name is #{Barak}."
+end
 
   
 
